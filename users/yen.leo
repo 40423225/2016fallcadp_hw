@@ -107,7 +107,7 @@
 <v t="leo.20161113223514.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.55" a="E"><vh>20161104</vh>
+<v t="leo.20161113210628.55"><vh>20161104</vh>
 <v t="leo.20161113210628.56"><vh>上課日期</vh>
 <v t="leo.20161113210628.57"><vh>20161104</vh></v>
 </v>
@@ -118,7 +118,7 @@
 <v t="leo.20161113223930.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113224221.1" a="E"><vh>20161111</vh>
+<v t="leo.20161113224221.1"><vh>20161111</vh>
 <v t="leo.20161113224221.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161113224221.3"><vh>20161111</vh></v>
 </v>
@@ -127,6 +127,17 @@
 </v>
 <v t="leo.20161113224221.6" a="E"><vh>心得</vh>
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161217215325.1"><vh>20161118</vh>
+<v t="leo.20161217215325.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161217215325.3"><vh>20161111</vh></v>
+</v>
+<v t="leo.20161217215325.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161217215325.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161217215325.6" a="E"><vh>心得</vh>
+<v t="leo.20161217215325.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -159,6 +170,7 @@
 <v t="leo.20161113210647.11"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161113210647.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161113224627.1"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161217215746.1"><vh>@edit 20161118.md</vh></v>
 </v>
 </v>
 </v>
@@ -828,6 +840,51 @@ print("hello")
 <t tx="leo.20161113224221.7">##心得
 
 今天第九次上課，這次上課是期中考週，所以我檢查一下自己哪裡還沒做好，真希望不會被當，但我才不是怕被當才努力學習的。
+
+</t>
+<t tx="leo.20161217215325.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161217215325.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217215325.3">## 2016/11/18 第十週
+
+</t>
+<t tx="leo.20161217215325.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217215325.5">##上課內容 
+
+有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
+
+
+
+</t>
+<t tx="leo.20161217215325.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217215325.7">##心得
+
+今天第十次上課，這次上課開始教畫圖的東西，所以我學到了如何使用Solvespace，但我也要學英文，因為都看不太懂。
 
 </t>
 </tnodes>
