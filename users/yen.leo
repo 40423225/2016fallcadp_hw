@@ -139,6 +139,20 @@
 <v t="leo.20161217215325.6" a="E"><vh>心得</vh>
 <v t="leo.20161217215325.7"><vh>心得</vh></v>
 </v>
+<v t="leo.20161217235247.1" a="E"><vh>心得</vh>
+<v t="leo.20161217235247.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161217232233.1"><vh>20161125</vh>
+<v t="leo.20161217232233.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161217232233.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161217232233.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161217232233.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161217232233.6" a="E"><vh>心得</vh>
+<v t="leo.20161217232233.7"><vh>心得</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -171,6 +185,7 @@
 <v t="leo.20161113210647.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161113224627.1"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161217215746.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161217232443.1"><vh>@edit 20161125.md</vh></v>
 </v>
 </v>
 </v>
@@ -886,6 +901,77 @@ print("hello")
 
 今天第十次上課，這次上課開始教畫圖的東西，所以我學到了如何使用Solvespace，但我也要學英文，因為都看不太懂，所以我會加油。
 
+</t>
+<t tx="leo.20161217232233.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161217232233.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217232233.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20161217232233.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217232233.5">##上課內容 
+
+虎尾科技大學36週年校慶
+
+
+
+
+</t>
+<t tx="leo.20161217232233.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217232233.7">##心得
+
+今天第十一次上課，但因為遇到虎科大36週年校慶，沒上課，好好休息吧。
+
+</t>
+<t tx="leo.20161217235247.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161217235247.2">##心得
+
+我這次做也出現了許多問題。連GitHub都寄信給我。
+
+信裡面這麼說The page build failed with the following error:
+
+The tag `notebook` on line 13 in `plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md` is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.
+
+For information on troubleshooting Jekyll see:
+
+https://help.github.com/articles/troubleshooting-jekyll-builds
+
+If you have any questions you can contact us by replying to this email.
+
+我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。
 </t>
 </tnodes>
 </leo_file>

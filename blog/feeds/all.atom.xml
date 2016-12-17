@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423225 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-18T22:00:00+08:00</updated><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423225 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-25T22:00:00+08:00</updated><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;虎尾科技大學36週年校慶&lt;p&gt;
+
+&lt;img src="../data/image/W11-1.png" width="800" /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W11-2.png" width="800" length="600" /&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十一次上課，但因為遇到虎科大36週年校慶，沒上課，好好休息吧。</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;p&gt;
@@ -16,7 +40,19 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十次上課，這次上課開始教畫圖的東西，所以我學到了如何使用Solvespace，但我也要學英文，因為都看不太懂，所以我會加油。</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+今天第十次上課，這次上課開始教畫圖的東西，所以我學到了如何使用Solvespace，但我也要學英文，因為都看不太懂，所以我會加油。我這次做也出現了許多問題。連GitHub都寄信給我。
+
+信裡面這麼說The page build failed with the following error:
+
+The tag `notebook` on line 13 in `plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md` is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.
+
+For information on troubleshooting Jekyll see:
+
+https://help.github.com/articles/troubleshooting-jekyll-builds
+
+If you have any questions you can contact us by replying to this email.
+
+我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。</summary><category term="Solvespace"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
 
 &lt;p&gt;期中考週&lt;p&gt;
