@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -129,7 +128,7 @@
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161217215325.1" a="E"><vh>20161118</vh>
+<v t="leo.20161217215325.1"><vh>20161118</vh>
 <v t="leo.20161217215325.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161217215325.3"><vh>20161111</vh></v>
 </v>
@@ -152,6 +151,17 @@
 </v>
 <v t="leo.20161217232233.6" a="E"><vh>心得</vh>
 <v t="leo.20161217232233.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161230112837.1" a="E"><vh>20161202</vh>
+<v t="leo.20161230112837.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161230112837.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161230112837.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161230112837.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161230112837.6" a="E"><vh>心得</vh>
+<v t="leo.20161230112837.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -185,7 +195,8 @@
 <v t="leo.20161113210647.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161113224627.1"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161217215746.1"><vh>@edit 20161118.md</vh></v>
-<v t="leo.20161217232443.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161230112623.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161217232443.1"><vh>@edit 20161202.md</vh></v>
 </v>
 </v>
 </v>
@@ -972,6 +983,52 @@ https://help.github.com/articles/troubleshooting-jekyll-builds
 If you have any questions you can contact us by replying to this email.
 
 我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。
+</t>
+<t tx="leo.20161230112837.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161230112837.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230112837.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20161230112837.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230112837.5">##上課內容 
+
+利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+
+
+
+</t>
+<t tx="leo.20161230112837.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161230112837.7">##心得
+
+今天第十二次上課，要畫第二張圖，但我還是覺得SOLVESPACE不好用，雖然有時覺得滿好用。不過我還是畫好了，真開心。
+
 </t>
 </tnodes>
 </leo_file>
