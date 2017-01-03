@@ -175,7 +175,7 @@
 <v t="leo.20170103143025.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170103145342.1" a="E"><vh>20161216</vh>
+<v t="leo.20170103145342.1"><vh>20161216</vh>
 <v t="leo.20170103145342.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170103145342.3"><vh>20161216</vh></v>
 </v>
@@ -230,6 +230,12 @@
 </v>
 </v>
 <v t="leo.20161113210658.1"><vh>@edit ../README.md</vh></v>
+<v t="leo.20170104004519.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170104004519.3"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20170104004519.4"><vh>old:心得</vh></v>
+<v t="leo.20170104004519.5"><vh>new:心得</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20161113210540.1"></t>
@@ -411,7 +417,8 @@ Created by [40423225](https://40423225.github.io/2016fallcadp_hw/blog/)
 </t>
 <t tx="leo.20161113210628.26">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.27">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -451,7 +458,8 @@ g.es("admin pelican 近端執行完畢")
 </t>
 <t tx="leo.20161113210628.33">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.34">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -483,7 +491,8 @@ g.es("admin pelican 近端執行完畢")
 <t tx="leo.20161113210628.4"></t>
 <t tx="leo.20161113210628.40">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.41">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -515,7 +524,8 @@ g.es("admin pelican 近端執行完畢")
 </t>
 <t tx="leo.20161113210628.45">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.46">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -557,7 +567,8 @@ redirecting ....
 &lt;/html&gt;</t>
 <t tx="leo.20161113210628.50">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.51">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -567,7 +578,8 @@ redirecting ....
 
 						
 </t>
-<t tx="leo.20161113210628.52">## 2016/10/28 第七週</t>
+<t tx="leo.20161113210628.52">## 2016/10/28 第七週
+</t>
 <t tx="leo.20161113210628.53">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -587,7 +599,8 @@ redirecting ....
 </t>
 <t tx="leo.20161113210628.55">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113210628.56">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -849,7 +862,8 @@ print("hello")
 </t>
 <t tx="leo.20161113224221.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161113224221.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -894,7 +908,8 @@ print("hello")
 </t>
 <t tx="leo.20161217215325.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161217215325.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -939,7 +954,8 @@ print("hello")
 </t>
 <t tx="leo.20161217232233.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161217232233.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1010,7 +1026,8 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20161230112837.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161230112837.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1056,7 +1073,8 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170103143025.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170103143025.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1080,7 +1098,7 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170103143025.5">##上課內容 
 
-利用OnShape練習繪製零件並學習如何組立。
+利用OnShape練習繪製零件。
 
 
 
@@ -1097,12 +1115,13 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170103143025.7">##心得
 
-今天第十三次上課，又有交一個新的畫圖軟體OnShape，我覺得還可以啦，但還是不太習慣。回去多練習吧。還有聽說很多人無法更新。我早就處理完了，我真是太佩服自己了。
+今天第十三次上課，又有交一個新的畫圖軟體OnShape，我隨便畫一些範本，但還是不太習慣。回去多練習吧。還有聽說很多人無法更新。我早就處理完了，我太佩服自己了。
 
 </t>
 <t tx="leo.20170103145342.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170103145342.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1126,7 +1145,7 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170103145342.5">##上課內容 
 
-利用OnShape練習繪製零件並學習如何組立。
+用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
 
 
 
@@ -1142,6 +1161,27 @@ If you have any questions you can contact us by replying to this email.
 						
 </t>
 <t tx="leo.20170103145342.7">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170104004519.2"></t>
+<t tx="leo.20170104004519.3">(uncached) leo.20170103145342.7
+Diff...
+  ##心得
+  
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+?                               ^
++ 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+?                               ^
+  
+</t>
+<t tx="leo.20170104004519.4">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170104004519.5">##心得
 
 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
 
