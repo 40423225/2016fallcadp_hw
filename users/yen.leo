@@ -186,6 +186,17 @@
 <v t="leo.20170103145342.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170104013330.1"><vh>20161223</vh>
+<v t="leo.20170104013330.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170104013330.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170104013330.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170104013330.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170104013330.6" a="E"><vh>心得</vh>
+<v t="leo.20170104013330.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -221,6 +232,7 @@
 <v t="leo.20161217232443.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20170103143741.1"><vh>@edit 20161209.md</vh></v>
 <v t="leo.20170103150158.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20170104013529.1"><vh>@edit 20161223.md</vh></v>
 </v>
 </v>
 </v>
@@ -1184,6 +1196,53 @@ Diff...
 <t tx="leo.20170104004519.5">##心得
 
 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170104013330.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170104013330.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170104013330.3">## 2016/12/16 第十五週
+
+</t>
+<t tx="leo.20170104013330.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170104013330.5">##上課內容 
+
+3D印表機，並模擬它的運動軌跡。
+
+
+
+
+</t>
+<t tx="leo.20170104013330.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170104013330.7">##心得
+
+今天第十五次上課，終於看到老師一開始上課的目標了--3D印表機，可是看起來很難，不過我會努力的。
 
 </t>
 </tnodes>
