@@ -175,6 +175,17 @@
 <v t="leo.20170103143025.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170103145342.1" a="E"><vh>20161216</vh>
+<v t="leo.20170103145342.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170103145342.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20170103145342.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170103145342.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170103145342.6" a="E"><vh>心得</vh>
+<v t="leo.20170103145342.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -209,6 +220,7 @@
 <v t="leo.20161230112623.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161217232443.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20170103143741.1"><vh>@edit 20161209.md</vh></v>
+<v t="leo.20170103150158.1"><vh>@edit 20161216.md</vh></v>
 </v>
 </v>
 </v>
@@ -1086,6 +1098,52 @@ If you have any questions you can contact us by replying to this email.
 <t tx="leo.20170103143025.7">##心得
 
 今天第十三次上課，又有交一個新的畫圖軟體OnShape，我覺得還可以啦，但還是不太習慣。回去多練習吧。還有聽說很多人無法更新。我早就處理完了，我真是太佩服自己了。
+
+</t>
+<t tx="leo.20170103145342.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170103145342.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170103145342.3">## 2016/12/16 第十四週
+
+</t>
+<t tx="leo.20170103145342.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170103145342.5">##上課內容 
+
+利用OnShape練習繪製零件並學習如何組立。
+
+
+
+
+</t>
+<t tx="leo.20170103145342.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170103145342.7">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
 
 </t>
 </tnodes>
