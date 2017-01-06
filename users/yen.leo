@@ -128,7 +128,7 @@
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161217215325.1" a="E"><vh>20161118</vh>
+<v t="leo.20161217215325.1"><vh>20161118</vh>
 <v t="leo.20161217215325.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161217215325.3"><vh>20161111</vh></v>
 </v>
@@ -153,7 +153,7 @@
 <v t="leo.20161217232233.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161230112837.1"><vh>20161202</vh>
+<v t="leo.20161230112837.1" a="E"><vh>20161202</vh>
 <v t="leo.20161230112837.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161230112837.3"><vh>20161202</vh></v>
 </v>
@@ -298,6 +298,16 @@
 <v t="leo.20170105015520.6"><vh>Recovered node "上課內容" from @clean index.html</vh>
 <v t="leo.20170105015520.7"><vh>old:上課內容</vh></v>
 <v t="leo.20170105015520.8"><vh>new:上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170107010135.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170107010135.2"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20170107010135.3"><vh>old:心得</vh></v>
+<v t="leo.20170107010135.4"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20170107010135.5"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20170107010135.6"><vh>old:上課內容</vh></v>
+<v t="leo.20170107010135.7"><vh>new:上課內容</vh></v>
 </v>
 </v>
 </vnodes>
@@ -999,6 +1009,9 @@ print("hello")
 
 有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
 
+&lt;iframe src="https://player.vimeo.com/video/198369023" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 
 </t>
@@ -1044,6 +1057,8 @@ print("hello")
 <t tx="leo.20161217232233.5">##上課內容 
 
 虎尾科技大學36週年校慶
+
+&lt;iframe src="https://player.vimeo.com/video/198370835" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1116,6 +1131,8 @@ If you have any questions you can contact us by replying to this email.
 <t tx="leo.20161230112837.5">##上課內容 
 
 利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+&lt;iframe src="https://player.vimeo.com/video/198372038" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1498,7 +1515,7 @@ Diff...
 Diff...
   ##心得
   
-- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 ?                               ^
 + 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 ?                               ^
@@ -1511,14 +1528,14 @@ Diff...
 </t>
 <t tx="leo.20170105015520.5">##心得
 
-今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 
 </t>
 <t tx="leo.20170105015520.6">(uncached) leo.20170104013330.5
 Diff...
   ##上課內容 
   
-- 3D印表機，並模擬它的運動軌跡。
+- 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
 + 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
@@ -1536,6 +1553,56 @@ Diff...
 
 </t>
 <t tx="leo.20170105015520.8">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+
+
+
+</t>
+<t tx="leo.20170107010135.1"></t>
+<t tx="leo.20170107010135.2">(uncached) leo.20170103145342.7
+Diff...
+  ##心得
+  
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+?                               ^
++ 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+?                               ^
+  
+</t>
+<t tx="leo.20170107010135.3">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170107010135.4">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170107010135.5">(uncached) leo.20170104013330.5
+Diff...
+  ##上課內容 
+  
+- 3D印表機，並模擬它的運動軌跡。
+?      ^
++ 3D印表機 ，並模擬它的運動軌跡。
+?      ^
+  
+  
+  
+  
+</t>
+<t tx="leo.20170107010135.6">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+
+
+
+</t>
+<t tx="leo.20170107010135.7">##上課內容 
 
 3D印表機，並模擬它的運動軌跡。
 
