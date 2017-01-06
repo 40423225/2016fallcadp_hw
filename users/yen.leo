@@ -208,6 +208,17 @@
 <v t="leo.20170104023148.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170106100215.1" a="E"><vh>20170106</vh>
+<v t="leo.20170106100215.2"><vh>上課日期</vh>
+<v t="leo.20170106100215.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170106100215.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106100215.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106100215.6" a="E"><vh>心得</vh>
+<v t="leo.20170106100215.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -245,6 +256,7 @@
 <v t="leo.20170103150158.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170104013529.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170104023058.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170106101135.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -300,6 +312,7 @@
 <v t="leo.20170105015520.8"><vh>new:上課內容</vh></v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t="leo.20170107010135.1" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20170107010135.2"><vh>Recovered node "心得" from @clean index.html</vh>
 <v t="leo.20170107010135.3"><vh>old:心得</vh></v>
@@ -308,6 +321,16 @@
 <v t="leo.20170107010135.5"><vh>Recovered node "上課內容" from @clean index.html</vh>
 <v t="leo.20170107010135.6"><vh>old:上課內容</vh></v>
 <v t="leo.20170107010135.7"><vh>new:上課內容</vh></v>
+=======
+<v t="leo.20170106100159.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170106100159.2"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20170106100159.3"><vh>old:心得</vh></v>
+<v t="leo.20170106100159.4"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20170106100159.5"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20170106100159.6"><vh>old:上課內容</vh></v>
+<v t="leo.20170106100159.7"><vh>new:上課內容</vh></v>
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 </v>
 </v>
 </vnodes>
@@ -1560,8 +1583,13 @@ Diff...
 
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.1"></t>
 <t tx="leo.20170107010135.2">(uncached) leo.20170103145342.7
+=======
+<t tx="leo.20170106100159.1"></t>
+<t tx="leo.20170106100159.2">(uncached) leo.20170103145342.7
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 Diff...
   ##心得
   
@@ -1571,17 +1599,29 @@ Diff...
 ?                               ^
   
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.3">##心得
+=======
+<t tx="leo.20170106100159.3">##心得
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 
 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.4">##心得
+=======
+<t tx="leo.20170106100159.4">##心得
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 
 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.5">(uncached) leo.20170104013330.5
+=======
+<t tx="leo.20170106100159.5">(uncached) leo.20170104013330.5
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 Diff...
   ##上課內容 
   
@@ -1594,7 +1634,11 @@ Diff...
   
   
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.6">##上課內容 
+=======
+<t tx="leo.20170106100159.6">##上課內容 
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 
 3D印表機 ，並模擬它的運動軌跡。
 
@@ -1602,12 +1646,64 @@ Diff...
 
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20170107010135.7">##上課內容 
+=======
+<t tx="leo.20170106100159.7">##上課內容 
+>>>>>>> 8e88c76b1c36baf2245a1761cb67aa56d01abc12
 
 3D印表機，並模擬它的運動軌跡。
 
 
 
+
+</t>
+<t tx="leo.20170106100215.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106100215.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100215.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170106100215.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100215.5">##上課內容 
+
+整理之前上課內容
+
+
+
+
+</t>
+<t tx="leo.20170106100215.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100215.7">##心得
+
+  &lt;p&gt;今天第十七次上課，我看到很多人都沒做。這樣我應該有機會可以過吧。我現在什麼都有。只剩影片還沒有，給點機會吧。&lt;p&gt;
+  &lt;p&gt;我這學習學了Solvespace跟OnShape這兩套軟體，我覺得很不錯，但我個人比較習慣用Solvespace，且因為聽說OnShape之後要錢，像我這沒錢的，當然是免錢的好用。我也覺得老師教得很好，在我這滿滿的課表中，這是我覺得有用的課之一。也謝謝老師的教導。&lt;p&gt;
 
 </t>
 </tnodes>
