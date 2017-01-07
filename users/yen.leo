@@ -208,7 +208,7 @@
 <v t="leo.20170104023148.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170107020023.1"><vh>20170106</vh>
+<v t="leo.20170107020023.1" a="E"><vh>20170106</vh>
 <v t="leo.20170107020023.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170107020023.3"><vh>20170106</vh></v>
 </v>
@@ -1331,6 +1331,7 @@ OnShape繪製Mechanism Tutorial
 
 整理目前上課進度
 
+&lt;iframe src="https://player.vimeo.com/video/198438045" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
