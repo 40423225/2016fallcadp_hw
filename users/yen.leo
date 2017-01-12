@@ -266,6 +266,16 @@
 </v>
 </v>
 <v t="leo.20161113210658.1"><vh>@edit ../README.md</vh></v>
+<v t="leo.20170113004628.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170113004628.3"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20170113004628.4"><vh>old:心得</vh></v>
+<v t="leo.20170113004628.5"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20170113004628.6"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20170113004628.7"><vh>old:上課內容</vh></v>
+<v t="leo.20170113004628.8"><vh>new:上課內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20161113210540.1"></t>
@@ -1350,6 +1360,62 @@ OnShape繪製Mechanism Tutorial
 今天第十七次上課，我看到很多人都沒做。這樣我應該有機會可以過吧。我現在什麼都有。給點機會吧。
 
 我這學習學了Solvespace跟OnShape這兩套軟體，我覺得很不錯，但我個人比較習慣用Solvespace，且因為聽說OnShape之後要錢，像我這沒錢的，當然是免錢的好用。我也覺得老師教得很好，在我這滿滿的課表中，這是我覺得有用的課之一。也謝謝老師的教導。
+</t>
+<t tx="leo.20170113004628.2"></t>
+<t tx="leo.20170113004628.3">(uncached) leo.20170103145342.7
+Diff...
+  ##心得
+  
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+?                               ^
++ 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+?                               ^
+  
+</t>
+<t tx="leo.20170113004628.4">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170113004628.5">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170113004628.6">(uncached) leo.20170104013330.5
+Diff...
+  ##上課內容 
+  
+- 3D印表機，並模擬它的運動軌跡。
+?      ^
++ 3D印表機 ，並模擬它的運動軌跡。
+?      ^
+  
+  &lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  
+  
+  
+  
+</t>
+<t tx="leo.20170113004628.7">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170113004628.8">##上課內容 
+
+3D印表機，並模擬它的運動軌跡。
+
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
