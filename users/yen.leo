@@ -208,7 +208,7 @@
 <v t="leo.20170104023148.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170107020023.1" a="E"><vh>20170106</vh>
+<v t="leo.20170107020023.1"><vh>20170106</vh>
 <v t="leo.20170107020023.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170107020023.3"><vh>20170106</vh></v>
 </v>
@@ -257,6 +257,7 @@
 <v t="leo.20170104013529.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170104023058.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170107020333.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170113100844.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -274,6 +275,16 @@
 <v t="leo.20170113004628.6"><vh>Recovered node "上課內容" from @clean index.html</vh>
 <v t="leo.20170113004628.7"><vh>old:上課內容</vh></v>
 <v t="leo.20170113004628.8"><vh>new:上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170113100826.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170113100826.3"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20170113100826.4"><vh>old:心得</vh></v>
+<v t="leo.20170113100826.5"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20170113100826.6"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20170113100826.7"><vh>old:上課內容</vh></v>
+<v t="leo.20170113100826.8"><vh>new:上課內容</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1366,7 +1377,7 @@ OnShape繪製Mechanism Tutorial
 Diff...
   ##心得
   
-- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 ?                               ^
 + 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 ?                               ^
@@ -1379,14 +1390,14 @@ Diff...
 </t>
 <t tx="leo.20170113004628.5">##心得
 
-今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
 
 </t>
 <t tx="leo.20170113004628.6">(uncached) leo.20170104013330.5
 Diff...
   ##上課內容 
   
-- 3D印表機，並模擬它的運動軌跡。
+- 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
 + 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
@@ -1408,6 +1419,62 @@ Diff...
 
 </t>
 <t tx="leo.20170113004628.8">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170113100826.2"></t>
+<t tx="leo.20170113100826.3">(uncached) leo.20170103145342.7
+Diff...
+  ##心得
+  
+- 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+?                               ^
++ 今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+?                               ^
+  
+</t>
+<t tx="leo.20170113100826.4">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了 。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170113100826.5">##心得
+
+今天第十四次上課，上課人數越來越少了，也代表我越來越有機會了。但今天我沒畫完，回家趕工。
+
+</t>
+<t tx="leo.20170113100826.6">(uncached) leo.20170104013330.5
+Diff...
+  ##上課內容 
+  
+- 3D印表機，並模擬它的運動軌跡。
+?      ^
++ 3D印表機 ，並模擬它的運動軌跡。
+?      ^
+  
+  &lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  
+  
+  
+  
+</t>
+<t tx="leo.20170113100826.7">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170113100826.8">##上課內容 
 
 3D印表機，並模擬它的運動軌跡。
 
